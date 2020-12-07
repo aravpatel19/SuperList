@@ -99,7 +99,7 @@ public class Runner {
             }
         }
         System.out.println("Before Median: "+before);  //before median list
-        System.out.println("After Median: " + after);   //after median list
+        System.out.println("After Median: " + after);   //after median list;
 
         System.out.println("\n");
 
